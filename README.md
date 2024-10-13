@@ -9,7 +9,9 @@ The primary goal is to identify significant patterns and insights within the hed
 
 # Models Used
 Data Preprocessing: Techniques to clean and prepare the data for analysis.
+
 Dimensionality Reduction: t-Distributed Stochastic Neighbor Embedding (scikit-learn's t-SNE) to make the non-linear data 2 dimensional while retaining important information.
+
 Clustering: K-means to group similar hedge funds together based on their characteristics.
 
 # Results

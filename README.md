@@ -12,7 +12,7 @@ Data Preprocessing: Techniques to clean and prepare the data for analysis.
 
 Dimensionality Reduction: t-Distributed Stochastic Neighbor Embedding (scikit-learn's TSNE) to make the non-linear data 2 dimensional while retaining important information.
 
-Clustering: K-means to group similar hedge funds together based on their characteristics.
+Clustering: K-means (scikit-learn's Kmeans) to group similar hedge funds together based on their characteristics.
 
 # Results
 The project includes visualizations that highlight the patterns and insights derived from the clustering analysis.
